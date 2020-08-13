@@ -8,7 +8,6 @@ function bmiCalculator() {
 
   if (weight <= 0 || height <= 0) {
     alert("Please enter valid values");
-    return;
   }
 
 
