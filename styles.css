@@ -2,6 +2,7 @@ body{
 font-family: 'Quicksand', sans-serif;
 background-color: #000;
 }
+
 h1{
   font-family: 'Roboto', sans-serif;
   text-align: center;
@@ -13,11 +14,12 @@ button{
   color: #FFF;
   margin-top: 40px;
   font-size: 1rem;
-
 }
+
 #height{
   margin-top: 20px;
 }
+
 .calculator{
   text-align: center;
   background-color: #ddf3f5;
